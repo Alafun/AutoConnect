@@ -1,0 +1,6 @@
+nohup sh main.sh
+at -f main.sh 1 am tomorrow
+at -f main.sh 3 am tomorrow
+at -f main.sh 5 am tomorrow
+at -f main.sh 7 am tomorrow
+at -f main.sh 11 am tomorrow
